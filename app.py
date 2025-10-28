@@ -371,4 +371,4 @@ def render_tab(active_tab, store):
 # Run Server
 # ---------------------------
 if __name__ == "__main__":
-    app.run(port=8050)
+    app.run()
